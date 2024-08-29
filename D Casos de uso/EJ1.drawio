@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-08-28T22:54:53.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="4V8uO5MMJyl13mgGp4HS" version="24.4.8" type="device">
+<mxfile host="Electron" modified="2024-08-29T01:16:54.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="HZmMONTezKk8tEVoBQMr" version="24.4.8" type="device">
   <diagram name="Página-1" id="uuqhVw4UhuxQwCavcIjO">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,23 +10,29 @@
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-1" value="IMPRIMIR&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BILLETES&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-1" target="6Lgyi_FCyXcrfWSOEt0s-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="510" as="sourcePoint" />
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-2" value="ABRIR&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;BOVEDA&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-3" value="DISEÑAR&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BILLETE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-4" value="SECRETARIA&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="590" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-5" value="DIRECTOR&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-6" value="JEFE IMPRESION" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-8" value="RELOJ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="420" width="30" height="60" as="geometry" />
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-8" value="RELOJ 7M TODOS LOS LUNES" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Lgyi_FCyXcrfWSOEt0s-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-6" target="6Lgyi_FCyXcrfWSOEt0s-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,7 +40,7 @@
             <mxPoint x="230" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt; Quiere diseñar billete conmemorativo" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.617;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.617;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-1" target="6Lgyi_FCyXcrfWSOEt0s-3">
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-18" value="DBEXT&amp;nbsp; &amp;lt;&amp;lt;extends&amp;gt;&amp;gt; Se quiere diseñar billete" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.617;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.617;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-1" target="6Lgyi_FCyXcrfWSOEt0s-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="430" as="sourcePoint" />
             <mxPoint x="370" y="430" as="targetPoint" />
@@ -51,6 +57,74 @@
             <mxPoint x="390" y="460" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-1" target="6Lgyi_FCyXcrfWSOEt0s-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-8" target="6Lgyi_FCyXcrfWSOEt0s-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-5" target="6Lgyi_FCyXcrfWSOEt0s-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-2" target="6Lgyi_FCyXcrfWSOEt0s-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-6" target="6Lgyi_FCyXcrfWSOEt0s-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-36" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-31" target="6Lgyi_FCyXcrfWSOEt0s-2">
+          <mxGeometry x="-0.2222" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-31" value="REGISTRO&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CAUDAL&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="585" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MANTENER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;STOCK&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-34" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Especificacion CU Imprimir Billetes&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Nombre CU: Imprimir billetes&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Actor Primario: Director&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Actores Secundarios: BCE,API&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Descripcion: Este cu se utiliza para comenzar la impresion de billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Trigger: El caso de uso comienza cuando se quiere imprimir billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Curso Basico:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1)El caso de uso comienza cuando el jefe de impresion decide imprimir billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2) Se ingresa el modelo de billete a imprimir.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3)Se ingresa la cantidad de billetes a imprimir.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4) El sistema avisa al BCE sobre la impresion de billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5)El sistema utiliza la API para comenzar la impresion.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6)[INCLUDE] ABRIR BOVEDA.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7)El sistema guarda informacion sobre la impresion&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(hora de inicio y fin,cantidad de billetes y modelo de billetes).&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8)El caso de uso finaliza.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="20" width="400" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-4" target="6Lgyi_FCyXcrfWSOEt0s-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="790" as="sourcePoint" />
+            <mxPoint x="440" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lgyi_FCyXcrfWSOEt0s-4" target="6Lgyi_FCyXcrfWSOEt0s-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="790" as="sourcePoint" />
+            <mxPoint x="440" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-43" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;Especificacion CU Diseñar Billete&lt;/h1&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;Nombre CU: Diseñar Billete&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;Actor Primario: Jefe Impresion&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;Descripcion: Este caso de uso se utiliza para diseñar billetes conmemorativos.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Curso Basico:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;1)El caso de uso comienza cuando se quiere diseñar un billete.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;2)El sistema solicita el ancho y alto del billete.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;3) El sistema solitica la denominacion del billete.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;4) El sistema solitica 2 imagenes eps con el diseño del frente y dorso del billete.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;5)Se guarda el billete y se manda a imprimir&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;5)Curso Alternativo:&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;5.1) Se descarta el diseño&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;6) El caso de uso finaliza.&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="495" width="320" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-45" value="DBEXT = Diseñar billete EXTEND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Especificacion CU Imprimir Billetes&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Nombre CU: Imprimir billetes&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Actor Primario: Director&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Actores Secundarios: BCE,API&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Descripcion: Este caso de uso se encarga de gestionar la impresion de billetes, especificando el modelo del billete y la cantidad a imprimir.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Trigger: El caso de uso comienza cuando se quiere imprimir billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Curso Basico:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1)&amp;nbsp; DBEXT Implicito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;2)&amp;nbsp; Se ingresa la cantidad de billetes a imprimir.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3)&amp;nbsp; El sistema avisa al BCE sobre la impresion de billetes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4)&amp;nbsp; El sistema utiliza la API para comenzar la impresion.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5)&amp;nbsp; [INCLUDE] ABRIR BOVEDA.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6)&amp;nbsp; El sistema guarda informacion sobre la impresion&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(hora de inicio y fin,cantidad de billetes y modelo de billetes).&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7)&amp;nbsp; El caso de uso finaliza.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="30" width="400" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lgyi_FCyXcrfWSOEt0s-53" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Especificacion CU Abrir Boveda&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Nombre CU: Abrir Boveda.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Actor Primario: ???&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Descripcion: Este caso de uso se encarga de abrir la boveda para guardar o extraer billetes.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Trigger: Este caso de uso comienza cuando se quiere abrir la boveda.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Curso Basico:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1)El sistema envia SMS pidiendo confirmacion al director.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2)El sistema verifica el codigo del director&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3)El sistema obtiene la autorizacion del BCE&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4) El sistema verifica la&amp;nbsp;autorizacion&amp;nbsp;del BCE&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;5) El caso de uso finaliza.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="40" width="370" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
