@@ -1,0 +1,106 @@
+<mxfile host="Electron" modified="2024-09-29T00:22:53.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Pc-PirjeMq58wJD2xNoM" version="24.4.8" type="device">
+  <diagram name="Página-1" id="XksdT13CiCNM27YyvpPY">
+    <mxGraphModel dx="2514" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-1" value="&lt;b&gt;User&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-2" value="JEFE IMPRESION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-3" value="SECRETARIA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="70" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-4" value="DIRECTOR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-5" value="GESTIONAR IMPRESION DE BILLETES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-6" value="&lt;b&gt;User Activities&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_FRw0taVxoWjVaGA3Xw-7" value="&lt;b&gt;User Tasks&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="305" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-1" value="IMPRIMIR BILLETES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-2" value="&lt;b&gt;User stories&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-3" value="US1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-5" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US1&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-Como jefe de impresion quiero imprimir billetes para mantener&amp;nbsp; el suministro de billetes.&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Seleccionar el modelo de billete (10,20,50.etc)&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Introducir la cantidad de billetes&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Garantizar que por impresion&amp;nbsp; sea un solo modelo de billete&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Dar aviso&amp;nbsp; Al BCE que comenzo la impresion.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Guardar informacion relevante de la impresion: Hora de inicio y fin, cantidad de billetes, y modelo de billetes impresos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-580" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-6" value="GESTIONAR AUTORIZACION DE LA BOVEDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-7" value="ABRIR BOVEDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-8" value="US2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-10" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US2&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-Como jefe de impresion quiero abrir la boveda para guardar los billetes a medida que son impresos&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicitar autorizacion al director de la fabrica.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Esperar respuesta del director de la fabrica &lt;b&gt;(enlaza con us3)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Esperar autorizacion del BCE con un codigo alfanumerico de 16 digitos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="330" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-11" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US3&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-Como director de la fabrica quiero pedir autorizacion para abrir la boveda&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Esperar un SMS del sistema pidiendo confirmacion para la apertura de la boveda.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Responder al SMS con un codigo numerico de 5 digitos.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="635" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-12" value="US3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-14" value="IMPRIMIR BILLETES AUTOMATICAMENTE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-16" value="US4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-17" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US4&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Como jefe de impresion quiero automatizar la impresion de billetes 10 E&amp;nbsp; para satisfacer la demanda&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;La impresion debe ser del modelo de billete de 10 Euros.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;La impresion debe ser todos los lunes a las 7am&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;La cantidad de billetes debe ser de 1 millon de euros.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="635" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-18" value="GESTIONAR MODELOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-19" value="DISEÑAR BILLETE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-21" value="US5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-22" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US5&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-Como jefe de impresion quiero diseñar un nuevo modelo de billete para&amp;nbsp; ocaciones conmemorativas.&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Solicitar el ancho y alto del billete&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;solicitar denominacion&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;solicitar 2 imagenes en formato eps con el diseño del frente y el dorso del billete.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ofrecer las opciones para ser guardado o decartado el nuevo modelo.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Si el modelo fue guardado ofrecer la funcionalidad de enviara imprimir los billetes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="670" y="635" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-23" value="GESTIONAR OPERACIONES DE CAUDALES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="195" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-24" value="GENIONAR STOCK DE INSUMOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="195" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-25" value="REGISTRAR RETIRO DE DINERO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-26" value="US6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-27" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US6&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Como secretaria quiero registrar las operaciones de caudales para los retiros de dinero&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Registrar la cantidad de billetes de cada denominacion que se retiran.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Registrar la patente del camion de caudales.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Registrar el banco de destino.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Inmediatamente al registrar la operacion el sistema debera abrir la boveda para que los empleados puedan extraer los billetes.(Enlaza con US2)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="635" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-29" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US7&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Como secretaria quiero poder&amp;nbsp; mantener el stock de los insumos para la confeccion de billetes&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&amp;nbsp;Criterios de aceptacion:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;El sistema permite actualizar la cantidad remanente de los insumos (bobinas de papel,tintas,etc) a medida qu van llegando.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;El sistema permite actualizar el stock a medida que los insumos se van utilizando en la impresion.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="305" width="380" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-30" value="MANTENER STOCK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoDyGoLf9VUKobdpJ9wB-31" value="US7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

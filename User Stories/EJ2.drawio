@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-09-29T21:15:14.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="WtZLdNMlYuQfL8Wrenfo" version="24.4.8" type="device">
+  <diagram name="Página-1" id="h2NJYb0NBlIZZUkmF_bD">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-1" value="CIUDADANO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-2" value="JEFE CUADRILLA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="60" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-3" value="SUBSECRETARIO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="60" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-4" value="AGREGAR REPORTE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-5" value="REPORTAR LUGAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-6" value="DENUNCIAR CIUDADANO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US1&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como ciudadano quiero reportar un lugar para que junten la basura&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Solicitar el nombre y apellido del ciudadano.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Solicitar DNI del denunciante .&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Solicitar localizacion exacta donde se encuentra la basura (INDICANDO LA LOCALIZACION POR EL MAPA).&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Solicitar obligatoriamente una foto del lugar .&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Solicitar opcionalmente una descripcion textual de la situacion.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Notificar al cargar el reporte el ciudadano obtendra un numero de denuncia y sera notificado cuando la basura sea recogida&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="40" width="430" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-8" value="&lt;b&gt;US1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US2&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como ciudadano quiero denunciar a una persona para mantener la ciudad limpia&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Criterios de aceptacion:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Solicitar nombre y apellido del denunciante.&lt;/li&gt;&lt;li&gt;Solicitar DNI del denunciante&lt;/li&gt;&lt;li&gt;Solicitar localizacion exacta del lugar donde se encuentra la basura&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Mediante un mapa).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solicitar un video donde se observe la situacion.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solicitar fecha y hora del suceso.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Enviar denuncia al juez de faltas.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Al cargar el reporte el sistema la data el numero de denuncia al ciudadana.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;El sistema avisara al ciudadano denunciante una vez que basura sea recogida&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="440" width="430" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US4&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como jefe de cuadrilla quiero visualizar el mapa de la ciudad para ver el trabajo sin hacer.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div&gt;Mostrar el mapa de la ciudad&amp;nbsp; para el jefe de cuadrilla.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mostrar en el mapa&amp;nbsp; solo los reportes que no se han resuelto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que el jefe de cuadrilla resuelva un reporte si el asi lo desease&lt;/div&gt;&lt;div&gt;(Enlaza con US3)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="120" y="560" width="430" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-14" value="&lt;b&gt;US2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US3&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como jefe de cuadrilla quiero poder marcar un reporte como resulto para la gestion de recoleccion de basura.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Solicitar el numero de denuncia.&lt;/div&gt;&lt;div&gt;Solicitar dia y horario del incidente.&lt;/div&gt;&lt;div&gt;Solicitar una foto del lugar limpio.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="850" width="430" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-18" value="GESTIONAR REPORTES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-19" value="RESOLVER REPORTE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="273" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-21" value="VISUALIZAR MAPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="722" y="273" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-22" value="&lt;b&gt;US3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-27" value="&lt;b&gt;US4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-29" value="MOSTRAR MAPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="722" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-31" value="&lt;b&gt;US5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="767" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US5&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como subsecretario de medio ambiente quiero poder ver el mapa con la basura sin recolectar&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;El sistema le muestra el mapa al subsecretario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="560" y="560" width="430" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-40" value="MOSTRAR ESTADISTICAS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-41" value="VISUALIZAR ESTADISTICAS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-42" value="&lt;b&gt;US6&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLvO1B8AMvOWsPpk94DR-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US6&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Como subsecretario de medio ambiente quiero poder ver las estadisticas para tomar decisiones&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que se muestre el calendario de los reporrtes generados&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que se muestre la cantidad de resoluciones de la cuadrilla&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Verificar que la aplicacion actualize las estadisticas automaticamente el primer dia de cada mes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1026" y="560" width="430" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qu8koOWJAt4rJp-s6nxD-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

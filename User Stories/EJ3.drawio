@@ -1,0 +1,100 @@
+<mxfile host="Electron" modified="2024-09-29T21:14:23.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9Z2GrSCqceQxJLJAS4C2" version="24.4.8" type="device">
+  <diagram name="Página-1" id="yrzIAZB3CMvv_FAXaPXJ">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w8uSzk15kXdC-I1FTajc-1" value="FAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-3" value="MOSTRAR INFORMACION DE LA SERIE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="115" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-4" value="USER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-5" value="USER ACTIVITIES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-7" value="USER TASK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="217" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-8" value="GESTIONAR SUSBCRIPCIONES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="115" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-10" value="MOSTRAR RESUMEN DE CAPITULO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-11" value="&lt;b&gt;US1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-12" value="&lt;b&gt;US2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US1&lt;/h1&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Como fan quiero poder ver los resumenes de capitulos para obtener informacion detallada del capitulo.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Verificar que se brinde el nombre del capitulo,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Verificar que se brinde una sinopsis del capitulo&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Verificar que muestre una o mas fotos del capitulo.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Verificar que se muestre uno o mas videos promocionales del capitulo. (Trailer).&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Verificar que se muestre una lista con los personajes que se muestran en el capitulo&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Varificar que se le de la opcion al usuario para ver informacion detalllada de cada personaje(&lt;b&gt;Enlaza con US2&lt;/b&gt;)&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="45" width="390" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-14" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US2&lt;/h1&gt;&lt;p&gt;Como fan quiero poder ver informacion detallada de cada personaje para conocer mas al respecto del mismo.&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que se muestre la biografia del personaje.&lt;/p&gt;&lt;p&gt;Verificar que se muestre el nombre y escudo de la casa a la cual pertenece.&lt;/p&gt;&lt;p&gt;Verificar que se muestre una o mas fotos del mismo.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="390" width="393" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-15" value="MOSTRAR INFORMACION DE LAS&amp;nbsp; CASAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-16" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US3&lt;/h1&gt;&lt;p&gt;Como fan quiero poder ver informacion de las casas de la serie para conocer mas al respecto de las mismas.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que se muestre el nombre de la casa.&lt;/p&gt;&lt;p&gt;Verificar que se muestre la historia de la casa.&lt;/p&gt;&lt;p&gt;Verificar que se muestre el escudo de la casa con su descripcion y el lema de la casa.&lt;/p&gt;&lt;p&gt;Verificar que se muestre un arbol genealogico de la casa.&lt;/p&gt;&lt;p&gt;Verificar que se le de la opcion al usuario de ver la informacion detallada del personaje seleccionado en el arbol genealogico (&lt;b&gt;Enlaza con US2&lt;/b&gt;)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="710" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-17" value="&lt;b&gt;US3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-18" value="MOSTRAR LISTA COMPLETA DE PERSONAJES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-19" value="&lt;b&gt;US4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-20" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US4&lt;/h1&gt;&lt;p&gt;Como fan quiero poder ver la lista de los personajes que aparecen en la serie para conocer mas al respecto de los personajes .&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que el personaje haya aparecido en la serie.&lt;/p&gt;&lt;p&gt;Verificar que se muestre una lista de los capitulos en los que aparecio.&lt;/p&gt;&lt;p&gt;Verificar que se muestre la biografia de cada personaje,&lt;/p&gt;&lt;p&gt;Verificar que se muestre el nombre y escudo de la a la cual pertenece&lt;/p&gt;&lt;p&gt;Verificar que se muestre una o mas fotos del mismo&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-21" value="GESTIONAR JUEGO DE LA SERIE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="115" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-23" value="SUSCRIBIR USUARIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-24" value="&lt;b&gt;US5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-25" value="NOTIFICAR USUARIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="201" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-26" value="VISUALIZAR MAPA MUNDO CONOCIDO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-27" value="&lt;b&gt;US6&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-28" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US5&lt;/h1&gt;&lt;p&gt;Como fan quiero poder subscribirme para poder recibir alertas.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Criterio de aceptacion:&amp;nbsp;&lt;/p&gt;&lt;p&gt;Verificar que se ingrese el email y/o numero de telefono movil.&lt;/p&gt;&lt;p&gt;Verificar que se reciban alertas 1 hora antes de cada capitulo(Enlaza con US6)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="785" width="460" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;US6&lt;/h1&gt;&lt;p&gt;Como fan quiero poder recibir alertas para&amp;nbsp; estar al tanto del lanzamiento de un capitulo nuevo.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que el usuario este subscripto.&lt;/p&gt;&lt;p&gt;Verificar que se envien notificaciones&amp;nbsp; los usuarios subscriptos 1 hora antes del lanzamiento de cada capitulo.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="785" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-30" value="&lt;b&gt;US7&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-32" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US7&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Como fan quiero poder visualizar el mapa del mundo conocido para conocer mas al respecto de la historia.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que se muestren las regiones donde transcurre la historia de la serie(Westeros,Andalos,Dothraki sea. etc).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que se muestren las principales ciudades de cada region(King Landing, Winterfell,Pentos.etc) con un detalle de las mismas y ademas&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;verificar que se muestre una lista de los capitulos en los que aparece la ciudad.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="390" width="549" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-33" value="JUGAR TRIVIA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-34" value="&lt;b&gt;US8&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8uSzk15kXdC-I1FTajc-35" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US8&lt;/h1&gt;&lt;p&gt;Como fan quiero poder jugar una trivia para poder ver a que casa pertenezco.&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que todas las preguntas sean de multiple choice.&lt;/p&gt;&lt;p&gt;Verificar que se muestre el resultado presentando el nombre y escudo de la casa.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="25" width="360" height="255" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

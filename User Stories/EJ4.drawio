@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2024-09-29T22:57:30.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="iqlfdo8lZWeTj-NJyq1L" version="24.4.8" type="device">
+  <diagram name="Página-1" id="VoXlHWOrGnQ1kMwoehWZ">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-1" value="USUARIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="910" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-2" value="USER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-3" value="USER ACTIVITIE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-4" value="USER TASK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-7" value="GESTIONAR INFORMACION DEL MUNDIAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="205" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-9" value="LISTAR EQUIPOS PARTICIPANTES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-10" value="LISTAR JUGADORES CONVOCADOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-11" value="GESTIONAR NOTIFICACIONES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-13" value="MOSTRAR CALENDARIO DE PARTIDOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-14" value="GESTIONAR ACTUALIZACIONES DE RESULTADOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="205" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-15" value="DETALLAR GRUPOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-16" value="NOTIFICAR USUARIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-17" value="ACTUALIZAR INFORMACION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="280" width="233" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-18" value="US1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lzqcVB-7Riq7TnbIyIxM-18" target="lzqcVB-7Riq7TnbIyIxM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-20" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US1&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Como usuario quiero poder ver la lista de los jugadores convocados para ver quienes participan en el torneo&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Criterios de aceptacion:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Por cada jugador:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar que se muestre una foto del jugador.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar que se muestre la biografia del jugador&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar que se muestren las estadisticas del jugador(No se actualizan con los partidos del mundial).&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="400" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-21" value="US2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-23" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US2&lt;/h1&gt;&lt;div&gt;Como usuario quiero poder ver los equipos participantes para tener mas informacion al respecto del torneo,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Criterios de aceptacion:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar que se muestre el nombre del equipo&lt;/div&gt;&lt;div&gt;Verificar que se muestre un resumen de la historia de participaciones del pais en la Copa&lt;/div&gt;&lt;div&gt;Verificar que se muestren los jugadores convocados del equipo()&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="700" width="440" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-24" value="US3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-25" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US3&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Como usuario quiero poder ver detalladamente la informacion de los grupos para estar actualizado con los puntajes.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Criterios de aceptacion:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Verificar que se muestre por cada equipo la cantidad de puntos que ha conseguido durante el mundial.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Verificar si la informacion esta actualizada(Enlaza con US7).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-26" value="&lt;b&gt;US7&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-27" value="US4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-28" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US4&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Como usuario quiero poder ver el calendario de partido para saber que partidos estan por jugarse o cuales ya pasaron.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Criterios de aceptacion:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Verificar que se listen los partidos en orden cronologico.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Verificar que por cada partido se indique la hora, el estadio y la ciudad donde se desarrollarara el encuentro.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verificar si la informacion esta actualizada (Enlaza con US7).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="550" y="730" width="460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-29" value="US5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-30" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US5&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="1040" width="460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-31" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;US7&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Como usuario quiero tener la informacion actualizada para estar al corriente de la copa mundial.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Criterios de aceptacion:&lt;/p&gt;&lt;p&gt;Verificar que se chequea cada 30 minutos el sistema MathScores de la fifa para obtener los resultados de los encuentros.&lt;/p&gt;&lt;p&gt;Verificar si un partido finalizo para actualizar el calendario de partido(US4)&lt;/p&gt;&lt;p&gt;Verificar que se actualicen los puntos de los grupos (Si gana 3 puntos, si empazata 0 puntos y si pierde 1 punto).&lt;/p&gt;&lt;p&gt;Verificar los partidos finalizados&amp;nbsp; para notificar al usuario con el resultado de ese partido.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="720" width="520" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-32" value="US8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-34" value="US9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-35" value="US10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-36" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US5&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Como usuario quiero poder ser notificado del resultado de un partido para cuando este haya finalizado.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Criterios de aceptacion:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar que el usuario tenga la opcion de poder ser notificado.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar si la informacion esta actualizada (Enlaza con US7)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="360" width="460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqcVB-7Riq7TnbIyIxM-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;US8&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Como usuario quiero pode recibir notificaciones para estar actualizado.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Criterios de aceptaicon:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Verificar que se muestre la opcion de recibir notificaciones en la seccion Listar Equipos Participantes.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="90" width="330" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,125 @@
+<mxfile host="Electron" modified="2024-09-20T00:34:25.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="IJTcYYVDm38jcsOHgxTy" version="24.4.8" type="device">
+  <diagram name="Página-1" id="CijLG9dTUiZgNUjh1E8P">
+    <mxGraphModel dx="3341" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V82H2omEtkJEXAtDxzLn-1" value="JUEZ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-3" value="REPORTAR&lt;div&gt;LUGAR&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-4" value="NOTIFICAR&lt;div&gt;USUARIO&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-5" value="CIUDADANO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-6" value="DENUNCIAR&amp;nbsp;&lt;div&gt;ABUSO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.025;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-3" target="V82H2omEtkJEXAtDxzLn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.288;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-6" target="V82H2omEtkJEXAtDxzLn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-6" target="V82H2omEtkJEXAtDxzLn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-3" target="V82H2omEtkJEXAtDxzLn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-1" target="V82H2omEtkJEXAtDxzLn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-6" target="V82H2omEtkJEXAtDxzLn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="140" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-24" value="REPORTAR&lt;div&gt;DENUNCIA&lt;/div&gt;&lt;div&gt;RESUELTA&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-25" value="JEFE&amp;nbsp;&lt;div&gt;CUADRILLA&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-26" value="MOSTRAR&lt;div&gt;MAPA&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-30" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;div&gt;PTO1&lt;/div&gt;&lt;div&gt;Quiere resolver denuncia&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-24" target="V82H2omEtkJEXAtDxzLn-26">
+          <mxGeometry x="-0.0027" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-24" target="V82H2omEtkJEXAtDxzLn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-32" value="SUBSECRETARIO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-26" target="V82H2omEtkJEXAtDxzLn-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="570" as="sourcePoint" />
+            <mxPoint x="580" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-26" target="V82H2omEtkJEXAtDxzLn-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="V82H2omEtkJEXAtDxzLn-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-39" value="RELJO&lt;div&gt;(PRIMERO DE CADA MES)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-41" value="MOSTRAR&amp;nbsp;&lt;div&gt;ESTADISTICAS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.908;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-39" target="V82H2omEtkJEXAtDxzLn-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V82H2omEtkJEXAtDxzLn-41" target="V82H2omEtkJEXAtDxzLn-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ESPECIFICACION MOSTRAR MAPA&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Nombre&lt;/b&gt;: MOSTRAR MAPA&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Descripcion&lt;/b&gt;: Este caso de uso genera un mapa que muetra solo los reportes .&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Trigger&lt;/b&gt;: Este caso de uso comienza cuando&amp;nbsp; el subcretario o jefe cuadrilla quiere visualizar el mapa.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Actor Primario&lt;/b&gt;:Jefe Cuadrilla&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;CURSO BASICO:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;El sistema genera un mapa de la basura en la ciudad solo accesible para&amp;nbsp;subsecretario y jefe de cuadrilla&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;El sistema muestra el mapa generado solo con las denuncias donde la cuadrilla aun no recolecto la basuca&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;PTO1 Implicito&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Se actualiza el mapa&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;5)El jefe de cuadrilla o subsecretario visualiza el mapa&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;5Este caso de uso finaliza&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;&lt;b&gt;Curso Alternativo&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;No se quiere reportar recoleccion&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;3.1)No se quiere reportar recoleccion&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;3.2)Volver al paso 5&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;align=center;glass=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="90" width="500" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="V82H2omEtkJEXAtDxzLn-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ESPECIFICACION RENUNCIA RESUELTA&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Nombre&lt;/b&gt;:&amp;nbsp; REPORTAR RENUNCIA RESUELTA&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Descripcion&lt;/b&gt;: Este de uso se utiliza para reportar las denuncias&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Trigger&lt;/b&gt;: Este caso de uso comienza cuando el jefe de cuadrilla quere resolver un reporte&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Actor Primario&lt;/b&gt;:Jefe Cuadrilla&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;&lt;i&gt;CURSO BASICO:&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;El sistema le pide al actor si quiere resolver un reporte&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;El jefe de cuadrilla response&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;El sistema le solicita el numero de denuncia&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;El sistema le solicita el dia y horario donde se soluciono el problema&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;El sistema solicita&amp;nbsp; una foto del lugar limpio&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;El jefe de cuadrilla response las solicitudes de informacion al sistema&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Este caso de uso finaliza&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Curso Alternativo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;No se quire resolver reporte.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;3.1)No se quiere reportar recoleccion&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;3.2)Volver al paso 7&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;CASO DE USO QUE EXTIENDE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Extiende el caso de uso MOSTRAR MAPA.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Cuando el jefe de cuadrilla quiere resolver denuncia en en el punto de extension :&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;PTO1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;align=center;fillColor=#f5f5f5;strokeColor=#146603;fontColor=#333333;glass=1;gradientColor=none;perimeterSpacing=13;dashed=1;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="50" width="570" height="790" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

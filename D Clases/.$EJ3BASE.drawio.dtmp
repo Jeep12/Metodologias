@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="ns0qDZucbcVG9wJsZVxs">
+    <mxGraphModel dx="2195" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hS0A1KipmadmbZSwiYBl-1" value="641" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="-230" width="350" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="hS0A1KipmadmbZSwiYBl-1" vertex="1">
+          <mxGeometry y="26" width="350" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-4" value="+ crearReserva(&lt;div&gt;nombreResponsable:String,&lt;/div&gt;&lt;div&gt;apellidoResponsable:String,&lt;/div&gt;&lt;div&gt;dniResponsable:int,&lt;/div&gt;&lt;div&gt;Date fecha,&lt;/div&gt;&lt;div&gt;nroTarjeta:int,&lt;/div&gt;&lt;div&gt;vencimientoTarjeta:Date,&lt;/div&gt;&lt;div&gt;codSeguridad:int,&lt;/div&gt;&lt;div&gt;canchaReservada:Cancha,&lt;/div&gt;&lt;div&gt;total:float&lt;br&gt;&lt;div&gt;): void&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ CancelarReserva(Date: Date, cancha:Cancha):void&lt;/div&gt;&lt;div&gt;+ InformarNoPresentacion(date :Date, cancha:Cancha) :void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-1" vertex="1">
+          <mxGeometry y="50" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-6" value="Cancha" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="-220" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-7" value="- deporte:String&lt;div&gt;- ubicacion:Object&lt;/div&gt;&lt;div&gt;-diasApertura: List&amp;lt;Date&amp;gt;&lt;/div&gt;&lt;div&gt;- horarioApertura:Time&lt;/div&gt;&lt;div&gt;-horarioCierre:Time&lt;/div&gt;&lt;div&gt;-duracionTurno:Time&lt;/div&gt;&lt;div&gt;-reservas:List&amp;lt;Reserva&amp;gt;&lt;/div&gt;&lt;div&gt;- id:long&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-6" vertex="1">
+          <mxGeometry y="26" width="320" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="hS0A1KipmadmbZSwiYBl-6" vertex="1">
+          <mxGeometry y="160" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-9" value="+addReserva(r:Reserva):void&lt;div&gt;-getReservaProxDias(nroDias: int):List&amp;lt;Reserva&amp;gt;&lt;/div&gt;&lt;div&gt;+ getReserva(date:Date):Reserva&lt;/div&gt;&lt;div&gt;+ listarCaracteristicas():Object&lt;/div&gt;&lt;div&gt;+ removeReserva(Date date):Reserva&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-6" vertex="1">
+          <mxGeometry y="168" width="320" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-10" value="Reserva" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-240" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-11" value="- nombreResponsable:String&lt;div&gt;- apellidoResponsable:String&lt;/div&gt;&lt;div&gt;- dniResponsable:int&lt;/div&gt;&lt;div&gt;-fecha:Date&lt;/div&gt;&lt;div&gt;- tarjeta :DatosTarjeta&lt;/div&gt;&lt;div&gt;-canchaReservada:Cancha&lt;/div&gt;&lt;div&gt;-total:float&lt;/div&gt;&lt;div&gt;-pagado:boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-10" vertex="1">
+          <mxGeometry y="26" width="310" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="hS0A1KipmadmbZSwiYBl-10" vertex="1">
+          <mxGeometry y="160" width="310" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-13" value="+realizarPago(float porcentaje):void&lt;div&gt;- getSistemaBancario(): SistemaBancario&lt;/div&gt;&lt;div&gt;+ getFecha():Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-10" vertex="1">
+          <mxGeometry y="168" width="310" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-14" value="DatosTarjeta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="150" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-15" value="-nro:int&lt;div&gt;&amp;nbsp;vencimiento:Date&lt;/div&gt;&lt;div&gt;-codSeguridad: int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-14" vertex="1">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="hS0A1KipmadmbZSwiYBl-14" vertex="1">
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-17" value="+ getCodSeguridad():int&lt;div&gt;+getNro():int&lt;/div&gt;&lt;div&gt;+getVecimiento():Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="hS0A1KipmadmbZSwiYBl-14" vertex="1">
+          <mxGeometry y="88" width="160" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="hS0A1KipmadmbZSwiYBl-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b&gt;SistemaBancario&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ hacerPago(&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;nroTarjeta:int,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;vencimiento:Date,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;codSeguridad:int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;monto:float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;):boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="110" y="120" width="190" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
